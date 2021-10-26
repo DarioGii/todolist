@@ -9,7 +9,7 @@
     "cuid": "^2.1.1",
     "immutable": "^3.8.2",
     "jquery": "^3.4.1",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.0",
     "popper.js": "^1.15.0",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
