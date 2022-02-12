@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@githubprimer/octicons-react": "^8.5.0",
-    "ajv": "^6.5.0",
+    "ajv": "^6.12.3",
     "bootstrap": "^4.3.1",
     "cuid": "^2.1.1",
     "immutable": "^3.8.2",
